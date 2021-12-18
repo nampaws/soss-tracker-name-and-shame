@@ -18,10 +18,11 @@
       "description": "Project makes no attempt to even pretend to be open source"
     }
   },
-  "timestamp": 1639833590,
+  "timestamp": 1639839180,
   "projects": [
     {
-      "name": "Mango Markets",
+      "name": "Mango Markets V3",
+      "program": "mv3ekLzLbnVPNxjSKvqBpU3ZeZXPQdEC3bp5MDEBG68",
       "symbol": "MNGO",
       "soss_rank": 1,
       "tags": [
