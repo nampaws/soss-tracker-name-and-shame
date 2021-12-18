@@ -18,12 +18,12 @@
       "description": "Project makes no attempt to even pretend to be open source"
     }
   },
-  "timestamp": "2021-12-18T19:57:21+0000",
+  "timestamp": "1639833590",
   "projects": [
     {
       "name": "Mango Markets",
       "symbol": "MNGO",
-      "ranking": 1,
+      "soss_rank": 1,
       "tags": [
         "defi",
         "lending",
