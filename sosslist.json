@@ -5,15 +5,15 @@
     "anchor"
   ],
   "soss_rank": {
-    1: {
+    "1": {
       "name": "full_soss",
       "description": "Fully open source and verified on Anchor registry or other verification scheme"
     },
-    2: {
+    "2": {
       "name": "fake_soss",
       "description": "Has source/SDK available on Github or other, but it's unverified"
     },
-    3: {
+    "3": {
       "name": "closed",
       "description": "Project makes no attempt to even pretend to be open source"
     }
